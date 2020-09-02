@@ -1,0 +1,14 @@
+{
+    "workbench.editorAssociations": [
+    
+    ],
+    "workbench.editor.enablePreview": false,
+    "workbench.colorCustomizations": {
+    
+    },
+    "editor.tokenColorCustomizations":  {
+
+        "comments": "#05c715"
+    },
+
+}
